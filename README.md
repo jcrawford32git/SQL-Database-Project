@@ -1,4 +1,4 @@
-# SQL Database Projects
+# SQL Database Project
 
 ## Project Overview
 This repository demonstrates practical SQL skills using MySQL and MySQL Workbench. The project focuses on retrieving, analyzing, and managing data within relational databases.
